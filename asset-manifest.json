@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/locofy-test-navigation-1/static/css/main.329292b0.css",
+    "main.js": "/locofy-test-navigation-1/static/js/main.9411e70c.js",
+    "static/js/787.2f71ee49.chunk.js": "/locofy-test-navigation-1/static/js/787.2f71ee49.chunk.js",
+    "index.html": "/locofy-test-navigation-1/index.html",
+    "main.329292b0.css.map": "/locofy-test-navigation-1/static/css/main.329292b0.css.map",
+    "main.9411e70c.js.map": "/locofy-test-navigation-1/static/js/main.9411e70c.js.map",
+    "787.2f71ee49.chunk.js.map": "/locofy-test-navigation-1/static/js/787.2f71ee49.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.329292b0.css",
+    "static/js/main.9411e70c.js"
+  ]
+}
